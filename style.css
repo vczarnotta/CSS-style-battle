@@ -15,5 +15,21 @@ a {
 }
 
 a:hover {
-    color: red;
+    color: #f00;
+}
+
+/*Rubriker*/
+
+h1 {
+    color: #036;
+    text-align: center;
+}
+
+h2 {
+    color: #040;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-style: italic;
 }
