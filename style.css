@@ -33,3 +33,13 @@ h2 {
 h3 {
     font-style: italic;
 }
+
+/*Listor*/
+
+ul, ol {
+    border: 1px solid #ccc;
+}
+
+li {
+    padding: 5px;
+}
