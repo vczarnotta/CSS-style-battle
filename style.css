@@ -75,3 +75,10 @@ nav a {
 nav a:hover {
     background-color: #036;
 }
+
+/*Layout*/
+
+footer {
+    background-color: #222;
+    color: #ddd;
+}
