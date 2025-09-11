@@ -1,0 +1,19 @@
+/*Grundläggande*/
+
+body {
+    background-color: #f4f4f4;
+}
+
+p {
+    color: #000;
+    line-height: 1.5;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
